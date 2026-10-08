@@ -40,9 +40,7 @@ Le patch est fourni au format **xdelta** et doit être appliqué à une ISO orig
 4. Sélectionnez votre ISO originale comme fichier source.
 5. Choisissez le nom et l'emplacement de l'ISO de sortie.
 6. Lancez le processus de patch.
-7. Utilisez ensuite l'ISO patchée avec votre PSP ou votre émulateur PSP.
-
-**Important :** l'ISO utilisée comme base doit correspondre à la version pour laquelle le patch a été créé.
+7. Utilisez ensuite l'ISO patchée avec votre émulateur PSP, je n'ai pas testé sur une PSP.
 
 ## État de la traduction
 
@@ -59,26 +57,3 @@ Les corrections futures pourront notamment concerner :
 * sous-titres
 * éventuels bugs liés au patch
 
-## Screenshots
-
-À ajouter prochainement.
-
-## Crédits
-
-**Traduction française :** Erwan
-
-Merci également aux personnes et aux outils ayant contribué au processus de traduction et de modification du jeu.
-
-## Disclaimer
-
-Senritsu no Stratus et tous les éléments du jeu original appartiennent à leurs ayants droit.
-
-Ce projet est un patch de traduction destiné à être appliqué à une copie légalement obtenue du jeu.
-
-Aucune copie du jeu original ou de fichiers protégés provenant directement du jeu n'est distribuée avec ce projet.
-
-## Licence
-
-Le patch et les fichiers de ce projet sont distribués à des fins de traduction et de préservation du jeu.
-
-Veuillez consulter les informations de licence du dépôt avant toute redistribution ou modification.
